@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fe2f36eb3e09f194a9e53e7fe637fe56
+timeCreated: 1486672441
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - explosion: {instanceID: 0}
+  - explosionSound: {instanceID: 0}
+  - burningFuse: {fileID: 8300000, guid: 4827fb3f7a847e74d9cfe33fc18ade34, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

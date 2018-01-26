@@ -1,0 +1,34 @@
+fileFormatVersion: 2
+guid: 6ff5337336ad1dc4f91785a7a34d80aa
+timeCreated: 1489099377
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - sol: {instanceID: 0}
+  - glace: {instanceID: 0}
+  - slime: {instanceID: 0}
+  - saut: {instanceID: 0}
+  - mur: {instanceID: 0}
+  - rocher: {instanceID: 0}
+  - pickupVitesse: {instanceID: 0}
+  - pickupBombe: {instanceID: 0}
+  - pickupBombeMur: {instanceID: 0}
+  - pickupSuperBombe: {instanceID: 0}
+  - pickupBombeGlace: {instanceID: 0}
+  - pickupBombeGlue: {instanceID: 0}
+  - pickupRange: {instanceID: 0}
+  - txtNombreBombes: {instanceID: 0}
+  - txtRange: {instanceID: 0}
+  - txtPtsVie: {instanceID: 0}
+  - slotBomb1: {instanceID: 0}
+  - slotBomb2: {instanceID: 0}
+  - detonator: {instanceID: 0}
+  - heart: {instanceID: 0}
+  - canvas: {instanceID: 0}
+  - spawnPoint: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 29ad3189e16420546ae5096a4ad21cce
+timeCreated: 1489099735
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - bombe: {instanceID: 0}
+  - superBombe: {instanceID: 0}
+  - bombeMur: {instanceID: 0}
+  - bombeGlace: {instanceID: 0}
+  - bombeGlue: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
